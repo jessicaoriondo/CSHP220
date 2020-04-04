@@ -1,0 +1,17 @@
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\bin\Debug\netcoreapp3.0\Homework1.exe
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\bin\Debug\netcoreapp3.0\Homework1.deps.json
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\bin\Debug\netcoreapp3.0\Homework1.runtimeconfig.json
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\bin\Debug\netcoreapp3.0\Homework1.runtimeconfig.dev.json
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\bin\Debug\netcoreapp3.0\Homework1.dll
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\bin\Debug\netcoreapp3.0\Homework1.pdb
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1.csprojAssemblyReference.cache
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1_MarkupCompile.cache
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1_MarkupCompile.lref
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1.g.resources
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1.AssemblyInfo.cs
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1.dll
+C:\Users\jekor\source\repos\CSHP220\Homework1\Homework1\obj\Debug\netcoreapp3.0\Homework1.pdb
