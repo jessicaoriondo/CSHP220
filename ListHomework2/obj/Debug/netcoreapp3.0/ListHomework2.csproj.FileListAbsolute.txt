@@ -1,0 +1,11 @@
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\obj\Debug\netcoreapp3.0\ListHomework2.csprojAssemblyReference.cache
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\obj\Debug\netcoreapp3.0\ListHomework2.AssemblyInfoInputs.cache
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\obj\Debug\netcoreapp3.0\ListHomework2.AssemblyInfo.cs
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\bin\Debug\netcoreapp3.0\ListHomework2.exe
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\bin\Debug\netcoreapp3.0\ListHomework2.deps.json
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\bin\Debug\netcoreapp3.0\ListHomework2.runtimeconfig.json
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\bin\Debug\netcoreapp3.0\ListHomework2.runtimeconfig.dev.json
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\bin\Debug\netcoreapp3.0\ListHomework2.dll
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\bin\Debug\netcoreapp3.0\ListHomework2.pdb
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\obj\Debug\netcoreapp3.0\ListHomework2.dll
+C:\Users\jekor\source\repos\CSHP220\ListHomework2\obj\Debug\netcoreapp3.0\ListHomework2.pdb
