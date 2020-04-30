@@ -10,11 +10,11 @@
         <ListView x:Name="uxList">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn DisplayMemberBinding="{Binding Path=Name}">
-                        <GridViewColumnHeader x:Name="uxNameHeader" Content="Name" Click="uxNameHeader_Click"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Name}" Header="User Name" Width="100">
+                        <!--<GridViewColumnHeader x:Name="uxNameHeader" Content="Name" Click="uxNameHeader_Click"/>-->
                     </GridViewColumn>
-                    <GridViewColumn DisplayMemberBinding="{Binding Path=Password}">
-                        <GridViewColumnHeader x:Name="uxPassordHeader" Content="Password" Click="uxNamePassword_Click"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Password}" Header="Password" Width="100">
+                        <!--<GridViewColumnHeader x:Name="uxPassordHeader" Content="Password" Click="uxNamePassword_Click"/>-->
                     </GridViewColumn>
 
                 </GridView>

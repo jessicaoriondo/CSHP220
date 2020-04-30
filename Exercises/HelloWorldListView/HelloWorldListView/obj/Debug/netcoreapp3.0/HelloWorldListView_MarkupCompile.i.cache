@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
 C:\Users\jekor\source\repos\CSHP220\Exercises\HelloWorldListView\HelloWorldListView\App.xaml
-31646506151
+61998731611
 
-9585130161
+12111634667
 210-2056794359
-MainWindow.xaml;PanelWindow.xaml;SecondWindow.xaml;
+ComboWindow.xaml;MainWindow.xaml;MenuWindow.xaml;PanelWindow.xaml;SecondWindow.xaml;StatusWindow.xaml;
 
 True
 

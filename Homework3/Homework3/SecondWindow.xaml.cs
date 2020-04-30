@@ -33,6 +33,7 @@ namespace Homework3
 
         private void uxNameHeader_Click(object sender, RoutedEventArgs e)
         {
+            AddHandler(GridViewColumnHeader.ClickEvent, new RoutedEventHandler(uxNameHeader_Click));
             CollectionView view = (CollectionView)CollectionViewSource.GetDefaultView(uxList.ItemsSource);
             view.SortDescriptions.Clear();
             view.SortDescriptions.Add(new SortDescription("Name", ListSortDirection.Ascending));
@@ -40,6 +41,7 @@ namespace Homework3
 
         private void uxNamePassword_Click(object sender, RoutedEventArgs e)
         {
+            AddHandler(GridViewColumnHeader.ClickEvent, new RoutedEventHandler(uxNamePassword_Click));
             CollectionView view = (CollectionView)CollectionViewSource.GetDefaultView(uxList.ItemsSource);
             view.SortDescriptions.Clear();
             view.SortDescriptions.Add(new SortDescription("Password", ListSortDirection.Ascending));
