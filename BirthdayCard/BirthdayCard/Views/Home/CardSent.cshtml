@@ -1,0 +1,53 @@
+﻿@model BirthdayCard.Models.CardInfo
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <style>
+        .btn{
+            color: white;
+        }
+
+        body {
+            background-color: #f1f1f1;
+        }
+        h1 {
+            font-size: 20px;
+            color:white;
+            background-color: dimgray;
+        }
+        h6 {
+            font-size: 40px
+        }
+        body {
+            font-size: 15px;
+        }
+    </style>
+    <title>Birthday Card Generator</title>
+</head>
+<body>
+
+<div>
+    <h1>Birthday Card Generator</h1>
+    <h4>Birthday Card Sent</h4>
+    <hr />
+    From: @Model.From
+    <br/>
+    To: @Model.To
+    <br/>
+    Message: @Model.Message
+
+</div>
+<div>
+    <a asp-action="Index">Back to Home</a>
+</div>
+</body>
+</html>
